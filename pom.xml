@@ -125,7 +125,7 @@
     <junit.version>5.7.1</junit.version>
     <junit.platform.version>1.6.2</junit.platform.version>
     <mockito.version>3.7.7</mockito.version>
-    <opencypher.version>1.0.0-M16</opencypher.version>
+    <opencypher.version>1.0.0-1.0.0-M14</opencypher.version>
     <caffeine.version>3.0.0</caffeine.version>
     <required.maven.version>3.5.4</required.maven.version>
     <jackson.version>2.12.1</jackson.version>
